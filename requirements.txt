@@ -1,0 +1,11 @@
+bottle~=0.12.19
+waitress~=2.0
+tensorflow~=2.1
+tensorflow-hub~=0.7
+pillow~=9.0
+numpy~=1.22
+pytest~=6.2
+webtest~=3.0
+# retina-face is patched in face_detector.py
+# Verify that the patch still works when upgrading it
+retina-face==0.0.10

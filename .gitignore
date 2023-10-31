@@ -1,0 +1,10 @@
+*.iml
+.idea/
+!.idea/runConfigurations
+
+# Python-related
+venv/
+__pycache__/
+
+# App-generated data
+data/
