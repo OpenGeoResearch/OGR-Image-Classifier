@@ -42,10 +42,11 @@ or
 @misc{ogr,
   title={OpenGeoResearch Platform},
   url={https://github.com/OpenGeoResearch},
-  journal={GitHub},
-  author={Herlé, Stefan and Lemmerz, Thomas}
-  }
+  author={Herlé, S. and Lemmerz, T. and Kirchmann, F. and Winkels, B. and Aubart, M. and Blankenbach, J.},
+  year={2023}
+}
 ```
+
 ## License
 
 Copyright (C) 2023 Geodätisches Institut RWTH Aachen University,
