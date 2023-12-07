@@ -24,28 +24,12 @@ opengeoresearch@rwth-aachen.de
 
 ## Cite
 
-If you use this project in a scientific context, please cite the following:
+**If you use this project in a scientific context, please cite the following:**
 
-**The scientific paper regarding the research project:**
 ```
 ToDo: Add citation for the paper in gis.Science
 ```
 
-**The open source project providing the code:**
-
-```
-Herlé, S., Lemmerz, T., Kirchmann, F., Winkels, B., Aubart, M., Blankenbach, J., 2023.
-OpenGeoResearch Platform. https://github.com/OpenGeoResearch
-```
-or
-```
-@misc{ogr,
-  title={OpenGeoResearch Platform},
-  url={https://github.com/OpenGeoResearch},
-  author={Herlé, S. and Lemmerz, T. and Kirchmann, F. and Winkels, B. and Aubart, M. and Blankenbach, J.},
-  year={2023}
-}
-```
 
 ## License
 
