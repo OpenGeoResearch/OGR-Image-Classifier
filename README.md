@@ -28,10 +28,20 @@ opengeoresearch@rwth-aachen.de
 
 **If you use this project in a scientific context, please cite the following:**
 
-```
-ToDo: Add citation for the paper in gis.Science
-```
+Lemmerz, T., Herlé, S., Weber, A., Böhrkircher, L., Ketzler, G., Leuchner, M., & Blankenbach, J. (2024). OpenGeoResearch – a distributed geoinformation system for community-based participation in scientific geospatial questions. gis.Science, 37, 1-13. https://doi.org/10.14627/gis.Science.2024.1.1
 
+
+```
+@article{OpenGeoResearch2024,
+  title={OpenGeoResearch – a distributed geoinformation system for community-based participation in scientific geospatial questions},
+  author={Lemmerz, Thomas and Herlé, Stefan and Weber, Alexandra and Böhrkircher, Larissa and Ketzler, Gunnar and Leuchner, Michael and Blankenbach, Jörg},
+  journal={gis.Science},
+  volume={37},
+  pages={1-13},
+  year={2024},
+  doi={10.14627/gis.Science.2024.1.1}
+}
+```
 
 ## License
 
